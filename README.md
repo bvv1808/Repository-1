@@ -1,5 +1,5 @@
 # Repository 1
- import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 class Physic:
     def __init__(self, Z, A):
